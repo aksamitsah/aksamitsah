@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
-  <a href="https://github.com/TrustedFloppa">
+<div align="center">![github-grid-snake](https://user-images.githubusercontent.com/42860041/178789353-715cb16b-8033-44ee-9137-57ad3855caa9.svg)
 
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
